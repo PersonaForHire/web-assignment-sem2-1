@@ -1,0 +1,6 @@
+The Novice is a modern blackletter font inspired by Illuminated Manuscripts, a misspent youth at rock concerts and a middle age addled by strong imported lager beer. I created it in a draughty unheated scriptorium by candlelight using only squid ink and a goose feather quill, dressed only in a rough horsehair cassock, then retired to the comfort of my studio to digitise the glyphs and make it usable for the modern world as a .ttf.
+
+The Novice is free for personal and not for profit use, but a donation is required for ANY commercial use. A donation, of any size grants licence to use The Novice for commercial purposes. The same donation will pay for more strong imported lager beer, squid ink & goose feathers and keep the fonts coming, so, be pure, be vigilant, be generous.
+
+Update has extended language support (including Cyrillic) and tweaked metrics.
+
