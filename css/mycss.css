@@ -1,0 +1,116 @@
+@font-face{
+  font-family: "dragonforce";
+  src:url(../fonts/gothikka/Gothikka.ttf);
+}
+
+body{
+  background-image: url(../images/Background1.jpg); 
+  background-size: cover;                
+  background-repeat: no-repeat;
+  /*background-position: center center;*/
+  font-family: Helvetica, sans-serif;
+  color: white;
+  font-size: 1.3em;
+  font-family: "dragonforce";
+  max-height: ;
+}
+#logo{
+  height: 5%;
+  width: 73%;
+  margin-left: 14%;
+}
+nav {
+background-color: rgba(49, 36, 36, 0.7);
+margin: 0% 5%;
+
+}
+nav ul{
+  width:100%;
+}
+nav ul a{
+  font-size: 1.2em;
+}
+nav ul li{
+ margin:-0.5% auto;
+}
+
+/*nav img{
+  height:100%;
+  width: 20%;
+}*/
+
+section{
+  background-color: rgba(107, 110, 114,0.6);
+  margin: 0% 7%;
+	padding: 0% 3%;
+
+}
+#main{
+  text-align: center;
+}
+#card{
+  color: black;
+}
+.card {
+ margin: 0 auto; /* Added */
+ float: none; /* Added */
+margin-bottom: 10px; /* Added */
+}
+#ff{
+  text-align: center;
+  margin: 0%;
+  padding: 0% 26%;
+}
+#ff a{
+  width:10%;
+  height:10%;
+  padding: 0% 1%;
+}
+
+h2{
+  text-align: center;
+}
+
+form{
+  padding: 4% 0%;
+}
+#partners a{
+  padding: 7%;
+}
+#festivalFreindThing{
+  padding-top: 3%;
+  text-align: center;
+}
+hr{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #aaa;
+  margin: 1em 0;
+  padding: 0; 
+}
+iframe{
+  height: 75%;
+  width: 90%;
+}
+#eventHeader{
+  text-align: center;
+}
+#buttons{
+  text-align: center;
+
+}
+#formHeader{
+  font-size: 2.2em;
+}
+#form{
+  font-size: 1.2em;
+}
+button div{
+  padding: 22%;
+  font-size: 95%;
+}
+#but2{
+  width: 40%;
+  text-align: center;
+}
